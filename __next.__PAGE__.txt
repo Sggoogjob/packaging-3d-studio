@@ -1,0 +1,26 @@
+2:"$Sreact.fragment"
+3:"static/chunks/1be152e0-285b76e47f2b2248.js"
+4:"static/chunks/59a37cbe-2b3e56eaf20b49ca.js"
+5:"static/chunks/7f2e7b14-734f751be267131d.js"
+6:"static/chunks/20-101d6b22a1e300b4.js"
+7:"static/chunks/21-8acb3b71bd249306.js"
+8:"static/chunks/81-87aad5894d329052.js"
+9:"static/chunks/544-4c6e3cc0be9b3531.js"
+a:"static/chunks/app/page-483bc985b4ad5cc4.js"
+b:I[697,["522","$3","364","$4","175","$5","20","$6","21","$7","81","$8","544","$9","974","$a"],"LandingPage"]
+c:I[949,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+11:"ViewportBoundary"
+12:I[949,[],"$11"]
+13:"MetadataBoundary"
+14:I[949,[],"$13"]
+10:X
+1:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$2","c",{"children":[["$","$Lb",null,{}],null,["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]]}],"p":"$@f","v":null,"s":"$10"}}]]
+0:{"t":{"t":{"s":"","h":16,"c":"$Q1"},"h":{"r":["$","$2","h",{"children":[null,["$","$L12",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$d",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Packaging 3D Studio · 产品打样工具站"}],["$","meta","1",{"name":"description","content":"上传一张产品照片，说清尺寸、颜色、厚度、材质与图案位置，立刻看到真 3D 模型、六个面正视图与平面展开图，再导出刀版 PNG / UV 贴图 / GLB。"}],["$","meta","2",{"property":"og:title","content":"产品打样工作台"}],["$","meta","3",{"property":"og:description","content":"上传一张产品照片，用参数量化尺寸、颜色、厚度与图案位置，生成 3D 预览与平面展开图。"}],["$","meta","4",{"property":"og:url","content":"https://sggoogjob.github.io/packaging-3d-studio/"}],["$","meta","5",{"property":"og:site_name","content":"产品打样工作台"}],["$","meta","6",{"property":"og:locale","content":"zh_CN"}],["$","meta","7",{"property":"og:image","content":"https://sggoogjob.github.io/packaging-3d-studio/packaging-3d-studio/og.png"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"产品打样工具站首屏：左边一句话说清参数，右边是可拖着转的真 3D 盒子"}],["$","meta","11",{"property":"og:type","content":"website"}],["$","meta","12",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","13",{"name":"twitter:title","content":"产品打样工作台"}],["$","meta","14",{"name":"twitter:description","content":"上传一张产品照片，用参数量化尺寸、颜色、厚度与图案位置，生成 3D 预览与平面展开图。"}],["$","meta","15",{"name":"twitter:image","content":"https://sggoogjob.github.io/packaging-3d-studio/packaging-3d-studio/og.png"}]]}]}],null]}],null]}],"p":"$@15","v":null,"s":"$10"}},"a":"$@16","u":"$@17","b":"MArOmqfeqKOMELEe4eAmg"}
+e:null
+17:true
+10:300
+10:C
+16:0
+15:"$undefined"
+f:"$undefined"
